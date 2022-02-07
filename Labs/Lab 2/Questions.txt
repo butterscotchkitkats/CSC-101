@@ -1,0 +1,20 @@
+1. import java.util.Scanner
+   import java.util.*
+
+2. .nextDouble()
+
+3. 1, it returns null
+
+4. name and class description
+
+5. it gives you the remainder of a division equation
+
+6. 2.33333333333335
+
+7. 2.0
+
+8. 2
+
+9. True
+
+10. Yes

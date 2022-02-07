@@ -1,8 +1,7 @@
 import java.util.Scanner;
-
 class ReadStuff {
     public static void main(String [] args){
-        Scanner keyboard = new Scanner(System.in);
+      /*  Scanner keyboard = new Scanner(System.in);
         int number;
         String word;
         double decimal;
@@ -22,5 +21,11 @@ class ReadStuff {
         System.out.println("Your inputted number = " + number);
         System.out.println("Your word = " + word);
         System.out.println("Your decimal = " + decimal);
+
+        */
+
+        System.out.print("Hi");
+
+        System.out.println("Bye");
     }
 }

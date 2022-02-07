@@ -16,10 +16,10 @@ class MathPractice{
         System.out.println();
 
         System.out.print("Your results:\n");
-        System.out.print(double1 + " + " + double2 + " = " + (double1 + double2));
-        System.out.print(double1 + " * " + double2 + " = " + (double1*double2));
-        System.out.print(double1 + "^" + double2 + " = " + Math.pow(double1,double2));
-        System.out.print(double1 + " - " + double2 + " = " + (double1 - double2) + " and " + double2 + " - " + double1 + " = " + (double2 - double1) + "\nThe smaller of the two numbers is " + Math.max(double1,double2));
+        System.out.println(double1 + " + " + double2 + " = " + (double1 + double2));
+        System.out.println(double1 + " * " + double2 + " = " + (double1*double2));
+        System.out.println(double1 + "^" + double2 + " = " + Math.pow(double1,double2));
+        System.out.println(double1 + " - " + double2 + " = " + (double1 - double2) + " and " + double2 + " - " + double1 + " = " + (double2 - double1) + "\nThe smaller of the two numbers is " + Math.min(double1,double2));
 
 
     }
