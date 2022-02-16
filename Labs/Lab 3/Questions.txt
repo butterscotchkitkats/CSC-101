@@ -1,0 +1,30 @@
+
+What is “the buffer”? 
+A container for data
+
+What is the standard convention for naming a constant? 
+UPPERCASE
+
+What keyword is added to a constant declaration AND what does that keyword do? 
+final is the keyword makes the constant unchangeable
+
+What Random method would I use if I wanted to get a fractional value between 0 and 1?
+.nextDouble()
+
+Everything that we’ve used from the Math class has () at the end, such as pow(), sqrt(), etc.  Why doesn’t Math.PI have () at the end?
+Math.PI is a constant value, not a method
+
+What is the purpose of the DecimalFormat class and what is the primary method used from this class?
+The DecimalFormat class truncates a decimal to a specified number of decimal places. It is used in this class to do exactly that. 
+	
+What is the difference between a static method and an instance method?
+Static methods don't require a new object to be created whereas an instance method does. 
+	
+Give an example of a static method that you’ve used in class.
+Math
+	
+Give an example of an instance that you’ve used in class.
+Scanner
+
+What is the “easy” trick to figure out if a method is static or instance even if it’s code that you’re familiar with?
+capitalization

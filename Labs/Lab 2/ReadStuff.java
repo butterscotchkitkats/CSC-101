@@ -23,9 +23,5 @@ class ReadStuff {
         System.out.println("Your decimal = " + decimal);
 
         */
-
-        System.out.print("Hi");
-
-        System.out.println("Bye");
     }
 }
