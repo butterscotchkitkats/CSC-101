@@ -23,7 +23,7 @@ public class Cookies {
         System.out.println(df.format(flour*num) + " cups of flour"); */
         System.out.println(10/3);
 
-System.out.println(10%3);
+        Math.sqrt(100);
 
     }
     

@@ -1,0 +1,14 @@
+1.  False
+    True
+   
+2. equals() compares the content of two strings whereas "==" compares references
+
+3.  A
+
+4.  X
+    P
+    T
+    W
+
+5. The operator "==" checks to see if a value is exactly the same, whereas 
+   the "=" operator is used to set a value to a variable. 

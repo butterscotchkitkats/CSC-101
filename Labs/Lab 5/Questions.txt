@@ -1,0 +1,9 @@
+1.  while loop = C, D
+    do while loop = A, B
+   
+2.  4
+
+3.  columns, rows
+
+4.  It means that while the following boolean evaluates to true, the program will run. 
+    This loop runs infinitely
