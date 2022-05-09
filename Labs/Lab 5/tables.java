@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class tables {
-    public static void main(String[] args){
+    public static void main(String[] args){ /*
         Scanner kb = new Scanner(System.in);
 
         System.out.println("How many rows would you like?: ");
@@ -13,12 +13,21 @@ public class tables {
         System.out.println("What would you like the starting value to be?: ");
         int startValue = kb.nextInt();
 
-        for (int i=0; i < columns; i++){
+        for (int i=0; i < rows; i++){
             System.out.print("\n");
-            for (int j=0; j < rows; j++){
+            for (int j=0; j < columns; j++){
                 System.out.print(startValue + " ");
                 startValue++;
-            }
-        }
-    }   
+            } */
+            for(int i = 0; i < 11; i++){
+
+                System.out.println("Hi");
+          
+          }
+    }
 }
+
+
+        
+ 
+

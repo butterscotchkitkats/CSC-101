@@ -1,8 +1,7 @@
 class Practice {
     public static void main(String[] args){  // When a class is created, this line is needed
-        System.out.print("Hello World."); // Leaves cursor after printed
-        System.out.println("Hello World."); // Prints and then skips cursor to next line
-    
+        
+
     }
 }
 

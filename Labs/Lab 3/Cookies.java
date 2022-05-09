@@ -21,10 +21,9 @@ public class Cookies {
         System.out.println(df.format(sugar*num) + " cups of sugar");
         System.out.println(df.format(butter*num) + " cups of butter");
         System.out.println(df.format(flour*num) + " cups of flour"); */
-        System.out.println(10/3);
-
-        Math.sqrt(100);
-
+        for(int i = 10; i >= 0; i-=2){
+            System.out.print("hi");
+        }
     }
     
 }
